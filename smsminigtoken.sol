@@ -26,7 +26,7 @@ pragma solidity ^0.4.13;
 */
 *
 /**
-*Designed by @136789wise
+*Designed by @wise136789
 */
 
 
