@@ -23,8 +23,9 @@ pragma solidity ^0.4.13;
 
 *You should have received a copy of the GNU lesser General Public License
 *along with the Deviser Contract. If not, see <http://www.gnu.org/licenses/>.
+*/
 *
-*
+/**
 *Designed by @136789wise
 */
 
